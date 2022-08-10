@@ -1,4 +1,4 @@
-# monopoly
+# Monopoly Game
 
 ## Introduction
 Monopoly is a board game that originated in the United States in 1903 as a way to demonstrate that an economy that rewards wealth creation is better than one in which monopolists work under few constraints and to promote the economic theories of Henry George and in particular his ideas about taxation. The current version was first published by Parker Brothers in 1935. Subtitled "The Fast-Dealing Property Trading Game", the game is named after the economic concept of monopoly—the domination of a market by a single entity. It is now owned and produced by the American game and toy company Hasbro. Players move around the game-board buying or trading properties, developing their properties with houses and hotels, and collecting rent from their opponents, with the goal being to drive them all into bankruptcy leaving one monopolist in control of the entire economy. Since the board game was first commercially sold in the 1930s, it has become a part of popular world culture, having been locally licensed in more than 103 countries and printed in more than thirty-seven languages.  
