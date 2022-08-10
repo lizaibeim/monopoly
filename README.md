@@ -1,5 +1,4 @@
 # monopoly
-Class project for comp2021 object oriented programming
 
 ## Introduction
 Monopoly is a board game that originated in the United States in 1903 as a way to demonstrate that an economy that rewards wealth creation is better than one in which monopolists work under few constraints and to promote the economic theories of Henry George and in particular his ideas about taxation. The current version was first published by Parker Brothers in 1935. Subtitled "The Fast-Dealing Property Trading Game", the game is named after the economic concept of monopoly—the domination of a market by a single entity. It is now owned and produced by the American game and toy company Hasbro. Players move around the game-board buying or trading properties, developing their properties with houses and hotels, and collecting rent from their opponents, with the goal being to drive them all into bankruptcy leaving one monopolist in control of the entire economy. Since the board game was first commercially sold in the 1930s, it has become a part of popular world culture, having been locally licensed in more than 103 countries and printed in more than thirty-seven languages.  
@@ -59,6 +58,6 @@ Those commands are as follows:
       - Retire: The player controlled by humans is switched to be retired and leaves the game.  
 
 ## Authors:
-  [Yanbin Cao](https://www.linkedin.com/in/%E9%9B%81%E5%BD%AC-%E6%9B%B9-0112a711b/)  
-  [Zaibei Li](https://www.linkedin.com/in/zaibei-eric-li/)  
-  [Ziyi Wen](https://www.linkedin.com/in/ziyi-wen-896309168/)
+  + [Yanbin Cao](https://www.linkedin.com/in/%E9%9B%81%E5%BD%AC-%E6%9B%B9-0112a711b/)  
+  + [Zaibei Li](https://www.linkedin.com/in/zaibei-eric-li/)  
+  + [Ziyi Wen](https://www.linkedin.com/in/ziyi-wen-896309168/)
