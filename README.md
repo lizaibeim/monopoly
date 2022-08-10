@@ -59,5 +59,6 @@ Those commands are as follows:
       - Retire: The player controlled by humans is switched to be retired and leaves the game.  
 
 ## Authors:
-  [Zaibei Li](https://www.linkedin.com/in/zaibei-eric-li/)
-  [Yanbin Cao](https://www.linkedin.com/in/%E9%9B%81%E5%BD%AC-%E6%9B%B9-0112a711b/)
+  [Zaibei Li](https://www.linkedin.com/in/zaibei-eric-li/)  
+  [Yanbin Cao](https://www.linkedin.com/in/%E9%9B%81%E5%BD%AC-%E6%9B%B9-0112a711b/)  
+  [Ziyi Wen](https://www.linkedin.com/in/ziyi-wen-896309168/)
