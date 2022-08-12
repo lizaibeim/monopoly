@@ -56,8 +56,3 @@ Those commands are as follows:
       - Report: All information about squares and players will be printed out, including the type of square, the property name of the square (for property only), the owner of the square (for property only), the price of the square (for property only), the rent of square (for property only), the type of player, the location of the player, and the money player owns.  
       - Auto: The player controlled by humans is switched to automatically controlled by the computer.  
       - Retire: The player controlled by humans is switched to be retired and leaves the game.  
-
-## Authors:
-  + [Yanbin Cao](https://www.linkedin.com/in/%E9%9B%81%E5%BD%AC-%E6%9B%B9-0112a711b/)  
-  + [Zaibei Li](https://www.linkedin.com/in/zaibei-eric-li/)  
-  + [Ziyi Wen](https://www.linkedin.com/in/ziyi-wen-896309168/)
