@@ -42,7 +42,7 @@ b. printInfo(): the method is to print the information about it for the reportCo
 ```
 
 ## Game flow
-### The basic design of our game is that the players will be asked for commands from the console and according to their input, the corresponding output will be shown. When the game is finished, the winner will be shown.
+The basic design of the game is that the players will be asked for commands from the console and according to their input, the corresponding output will be shown. When the game is finished, the winner will be shown.
 ![image](https://user-images.githubusercontent.com/38242437/184029706-546ae400-5c72-459d-8cd2-2753477fdd12.png)
 
 ## Quick start guide
