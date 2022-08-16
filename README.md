@@ -16,7 +16,7 @@ Monopoly is a board game that originated in the United States in 1903 as a way t
 
 ## Program Structure
 ![image](https://user-images.githubusercontent.com/38242437/184028757-3d6ee400-1f80-495c-ba34-a6ed2dfc5af0.png)
-### Game class
+### Game Class
 The ***Game*** class controls the process of game and initializes the squares and the players. ***runGame()*** method control the process that every player takes his turn and check whether that the game finished (only one player left or more than 100 rounds).  
 ```
 a. in each turn, the askforCommand() method will ask for an input from the cmd, and call the corresponding method (continueCommand(),
