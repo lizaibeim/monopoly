@@ -15,7 +15,7 @@ Monopoly is a board game that originated in the United States in 1903 as a way t
   h. ask for input from human players on the condition that whether to buy a property or pay the fine to get out of jail.  
 ```
 
-## Program structure
+## Program Structure
 ![image](https://user-images.githubusercontent.com/38242437/184028757-3d6ee400-1f80-495c-ba34-a6ed2dfc5af0.png)
 ### Game class
 The ***Game*** class controls the process of game and initializes the squares and the players. ***runGame()*** method control the process that every player takes his turn and check whether that the game finished (only one player left or more than 100 rounds).  
@@ -28,24 +28,24 @@ b. continueCommand(): if the player is in jail, call the injail.dosomething() an
 c. reportCommand(): Report Command will print the information of squares and players. After printing, call the askforCommand().  
 d. retireCommand(): it will change the player into Retire and reset the owner of properties.  
 ```
-### Player class
+### Player Class
 The ***Player*** class store the information of the player and has serval method for interaction. The field name and the method name can indicate its functionality so here only give the description of some special method.  
 ```
 a. move(): the method will return a Boolean value telling whether the player passes the go squares so that the continueCommand can know.  
 b. rollDice(): the method will return an integer array containing the two random integers which are both in [1, 4].
 ```
-### Square class
+### Square Class
 The ***Square*** class is an abstract class that is extended by different types of squares.  
 ```
 a. doSomething(): the method is an abstract method and it is overridden in subclass so that different squares can realize different functionalities.
 b. printInfo(): the method is to print the information about it for the reportCommand.
 ```
 
-## Game flow
+## Game Flow
 The basic design of the game is that the players will be asked for commands from the console and according to their input, the corresponding output will be shown. When the game is finished, the winner will be shown.
 ![image](https://user-images.githubusercontent.com/38242437/184029706-546ae400-5c72-459d-8cd2-2753477fdd12.png)
 
-## Quick start guide
+## Quick Start Guide
 This monopoly project has a lot of commands to make the monopoly game go smoothly.  
 Those commands are as follows:
 1. First, when the game starts, the console will ask a command from users to input a number ***n***, which is used to initialize the ***n*** number of players.  
